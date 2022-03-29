@@ -8,7 +8,7 @@ Here I push my experiments with different technologies.
 
 * E-mail: gbiostrain@gmail.com
 
-* Telegram https://t.me/biostrain
+* Telegram: https://t.me/biostrain
 
 ---
 
