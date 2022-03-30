@@ -11,6 +11,7 @@ Here I push my experiments with different technologies.
 * Telegram: https://t.me/biostrain
 
 ---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luridev&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=luridev&color=lightgrey&style=for-the-badge)
 
