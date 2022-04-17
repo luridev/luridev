@@ -15,6 +15,8 @@ Here I push my experiments with different technologies.
 
 ![](https://komarev.com/ghpvc/?username=luridev&color=lightgrey&style=for-the-badge)
 
+[![Codewars badge](https://www.codewars.com/users/Sorry-For-My-Code/badges/micro)](https://www.codewars.com/users/Sorry-For-My-Code/)
+
 <!--
 **luridev/luridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
